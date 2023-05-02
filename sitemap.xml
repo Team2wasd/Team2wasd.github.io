@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wasd.so/author/iroblian/</loc>
+    <loc>https://wasd.so/members/iroblian/</loc>
     <lastmod>2021-03-20T10:20:19+06:00</lastmod>
   </url><url>
-    <loc>https://wasd.so/author/hobi/</loc>
+    <loc>https://wasd.so/members/hobi/</loc>
   </url><url>
-    <loc>https://wasd.so/author/holymsg/</loc>
+    <loc>https://wasd.so/members/holymsg/</loc>
     <lastmod>2021-03-20T10:20:19+06:00</lastmod>
   </url><url>
-    <loc>https://wasd.so/author/steee2l/</loc>
+    <loc>https://wasd.so/members/steee2l/</loc>
     <lastmod>2022-07-31T10:20:19+06:00</lastmod>
   </url><url>
-    <loc>https://wasd.so/author/zara/</loc>
+    <loc>https://wasd.so/members/zara/</loc>
   </url><url>
     <loc>https://wasd.so/blog/post-2/</loc>
     <lastmod>2022-08-31T11:33:57+06:00</lastmod>
@@ -48,10 +48,10 @@
     <loc>https://wasd.so/games/hammerwars/</loc>
     <lastmod>2021-03-20T10:20:19+06:00</lastmod>
   </url><url>
-    <loc>https://wasd.so/author/</loc>
+    <loc>https://wasd.so/games/</loc>
     <lastmod>2021-01-26T10:13:00+06:00</lastmod>
   </url><url>
-    <loc>https://wasd.so/games/</loc>
+    <loc>https://wasd.so/members/</loc>
     <lastmod>2021-01-26T10:13:00+06:00</lastmod>
   </url><url>
     <loc>https://wasd.so/search/</loc>
